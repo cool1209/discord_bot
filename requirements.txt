@@ -1,6 +1,6 @@
 discord.py>=2.3.0
 aiohttp>=3.8.0
 python-dotenv>=1.0.0
-retell-sdk=4.42.0
+retell-sdk==4.42.0
 supabase>=2.0.0
 
